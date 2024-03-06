@@ -3,7 +3,7 @@ import Spinner from './Spinner';
 import styles from './CountryList.module.css';
 import CountryItem from './CountryItem';
 import Message from './Message';
-import { useCities } from '../context/Cities.context';
+import { useCities } from '../context/CitiesContext';
 
 // eslint-disable-next-line react/prop-types
 function CountryList() {
