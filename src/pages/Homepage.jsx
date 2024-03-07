@@ -18,7 +18,7 @@ export default function Homepage() {
           you have wandered the world.
         </h2>
 
-        <Link to='/app' className="cta">Start Logging Now</Link>
+        <Link to='/login' className="cta">Start Logging Now</Link>
       </section>
     </main>
   );
