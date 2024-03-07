@@ -35,66 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Ausines, Los",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-06T23:19:10.014Z",
-      "notes": "sdf ",
-      "position": {
-        "lat": "42.147114459221015",
-        "lng": "-3.5375976562500004"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Algimia de Almonacid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-06T23:22:26.974Z",
-      "notes": "",
-      "position": {
-        "lat": "39.90973623453719",
-        "lng": "-0.41748046875000006"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "San Juan de la Encinilla",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-06T23:25:36.574Z",
-      "notes": "",
-      "position": {
-        "lat": "40.79717741518769",
-        "lng": "-4.812011718750001"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Gondomar",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2024-03-06T23:25:36.574Z",
-      "notes": "",
-      "position": {
-        "lat": "41.16211393939692",
-        "lng": "-8.569335937500002"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Friol",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-06T23:27:25.825Z",
-      "notes": "",
-      "position": {
-        "lat": "43.052833917627936",
-        "lng": "-7.822265625000001"
-      },
-      "id": 98443202
     }
   ]
 }
